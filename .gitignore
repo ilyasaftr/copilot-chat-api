@@ -1,0 +1,4 @@
+.copilot_token
+venv
+__pycache__/
+poetry.lock
